@@ -1,3 +1,5 @@
+![logo](https://github.com/ezzaaraoui/ezzaaraoui/blob/main/Design%20sans%20titre.png)
+
 <h1 align="center">Hi 👋 , I'm Ayoub ezzaaraoui</h1>
 <h3 align="center">Building digital dreams</h3>
 
