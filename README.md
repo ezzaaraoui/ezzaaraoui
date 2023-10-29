@@ -2,7 +2,7 @@
 
 <h1 align="center"><i><b>Hi 👋 , I'm Ayoub ezzaaraoui</b></i></h1>
 <h3 align="center">Building digital dreams</h3>
-
+<br>
 <img align="right" alt="coding" width="500" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zdpld8qnplg6xlclabptb531mcwdi69bv7z9bnsd&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezzaaraoui&label=Profile%20views&color=0e75b6&style=flat" alt="ezzaaraoui" /> </p>
