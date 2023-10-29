@@ -36,7 +36,7 @@
       <b>Version Control:</b> Git<br></p>
 </details>
   
-<p align="center"><img alt="stay happy" src="https://github.com/ezzaaraoui/ezzaaraoui/blob/main/ezgif.com-video-to-gif%20(1).gif"></p>
+<p align="center"><img alt="stay happy" src="https://github.com/ezzaaraoui/ezzaaraoui/blob/main/ezgif.com-video-to-gif%20(2).gif"></p>
 
 
  
