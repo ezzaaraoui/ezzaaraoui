@@ -24,7 +24,21 @@
 
 
 
-<p align="center">&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=ezzaaraoui&show_icons=true&locale=en" alt="ezzaaraoui" /></p>
+<p align="center">&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=ezzaaraoui&show_icons=true&theme=gruvbox" alt="ezzaaraoui" /></p>
 <br>
 <br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezzaaraoui&" alt="ezzaaraoui" /></p>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ezzaaraoui&theme=dark&hide_border=true&border_radius=4.6" alt="GitHub Streak" /></a></p>
+<details>
+ <summary><h3>List technical skills, programming languages :</h3></summary>
+      <p align="center"><b>Programming Languages:</b> Python, Java<br>
+      <b>Web Development:</b> HTML, CSS<br>
+      <b>Databases:</b> MySQL<br>
+      <b>Version Control:</b> Git<br></p>
+</details>
+  
+<p align="center"><b>Don't</b></p>
+<p align="center"><b>Worry.</b></p>
+<p align="center"><b>Be</b></p>
+<p align="center"><b>Happy</b></p>
+
+ 
