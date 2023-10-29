@@ -37,6 +37,6 @@
 </details>
   
 <p align="center"><img alt="stay happy" src="https://github.com/ezzaaraoui/ezzaaraoui/blob/main/ezgif.com-video-to-gif%20(2).gif"></p>
-
+<p align="center"><img alt="coding" width="500" src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47ae5trpd49ymwtrlphtk3x9zid01sjzk0nbbc0j5m&ep=v1_gifs_related&rid=giphy.gif&ct=g"></p>
 
  
