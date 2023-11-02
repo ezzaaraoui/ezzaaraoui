@@ -48,15 +48,15 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/ezzaaraoui/Operateur_telecom" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzaaraoui&repo=github-readme-stats&cache_seconds=86400&theme=blue-green"></a><a align="right" href=https://github.com/ezzaaraoui/sousTableau"" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzaaraoui&repo=github-readme-stats&cache_seconds=86400&theme=blue-green"></a>
+  <a align="left" href="https://github.com/ezzaaraoui/Operateur_telecom" title="Operateur_telecom"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzaaraoui&repo=github-readme-stats&cache_seconds=86400&theme=blue-green"></a><a align="right" href=https://github.com/ezzaaraoui/sousTableau"" title="sousTableau"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzaaraoui&repo=github-readme-stats&cache_seconds=86400&theme=blue-green"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/ezzaaraoui/mot_de_pass" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzaaraoui&repo=github-readme-stats&cache_seconds=86400&theme=blue-green"></a>
-  <a align="right" href="https://github.com/ezzaaraoui/gestion_de_client" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzaaraoui&repo=github-readme-stats&cache_seconds=86400&theme=blue-green"></a>
+  <a align="left" href="https://github.com/ezzaaraoui/mot_de_pass" title="mot_de_pass"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzaaraoui&repo=github-readme-stats&cache_seconds=86400&theme=blue-green"></a>
+  <a align="right" href="https://github.com/ezzaaraoui/gestion_de_client" title="gestion_de_client"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzaaraoui&repo=github-readme-stats&cache_seconds=86400&theme=blue-green"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/ezzaaraoui/nombre-diviseurs" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzaaraoui&repo=github-readme-stats&cache_seconds=86400&theme=blue-green"></a>
-  <a align="right" href="https://github.com/ezzaaraoui/nombres_premiers" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzaaraoui&repo=github-readme-stats&cache_seconds=86400&theme=blue-green"></a>
+  <a align="left" href="https://github.com/ezzaaraoui/nombre-diviseurs" title="nombre-diviseurs"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzaaraoui&repo=github-readme-stats&cache_seconds=86400&theme=blue-green"></a>
+  <a align="right" href="https://github.com/ezzaaraoui/nombres_premiers" title="nombres_premiers"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzaaraoui&repo=github-readme-stats&cache_seconds=86400&theme=blue-green"></a>
 </div>
