@@ -1,6 +1,7 @@
 ![logo](https://github.com/ezzaaraoui/ezzaaraoui/blob/main/Design%20sans%20titre%20(5).png)
 
-<h1 align="center"><i><b>Hi 👋 , I'm Ayoub ezzaaraoui</b></i></h1>
+<h1 align="center"><i><b>Hi <a href="https://hemant.codes"></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Ayoub ezzaaraoui</b></i></h1>
+<p align="center"><img  src="https://media3.giphy.com/media/PXqNXjkTmEfRK/giphy.gif?cid=ecf05e472fmh3gtenxds9qz333aebaq4e5ghqb5nmsl2di8b&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="ezzaaraoui" /></p>
 <h3 align="center">Building digital dreams</h3>
 <br>
 <img align="right" alt="coding" width="500" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zdpld8qnplg6xlclabptb531mcwdi69bv7z9bnsd&ep=v1_gifs_related&rid=giphy.gif&ct=g">
@@ -24,7 +25,7 @@
 
 
 
-<p align="center">&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=ezzaaraoui&show_icons=true&theme=gruvbox" alt="ezzaaraoui" /></p>
+<p align="center">&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=ezzaaraoui&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue-green" alt="ezzaaraoui" /></p>
 <br>
 <br>
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ezzaaraoui&theme=dark&hide_border=true&border_radius=4.6" alt="GitHub Streak" /></a></p>
@@ -39,4 +40,23 @@
 
 <p align="center"><img alt="coding" width="500" src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47ae5trpd49ymwtrlphtk3x9zid01sjzk0nbbc0j5m&ep=v1_gifs_related&rid=giphy.gif&ct=g"></p>
 
- <p align="center"><img alt="stay happy" src="https://github.com/ezzaaraoui/ezzaaraoui/blob/main/ezgif.com-video-to-gif%20(2).gif"></p>
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+<hr>
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/ezzaaraoui/Operateur_telecom" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzaaraoui&repo=github-readme-stats&cache_seconds=86400&theme=blue-green"></a><a align="right" href=https://github.com/ezzaaraoui/sousTableau"" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzaaraoui&repo=github-readme-stats&cache_seconds=86400&theme=blue-green"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/ezzaaraoui/mot_de_pass" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzaaraoui&repo=github-readme-stats&cache_seconds=86400&theme=blue-green"></a>
+  <a align="right" href="https://github.com/ezzaaraoui/gestion_de_client" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzaaraoui&repo=github-readme-stats&cache_seconds=86400&theme=blue-green"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/ezzaaraoui/nombre-diviseurs" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzaaraoui&repo=github-readme-stats&cache_seconds=86400&theme=blue-green"></a>
+  <a align="right" href="https://github.com/ezzaaraoui/nombres_premiers" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzaaraoui&repo=github-readme-stats&cache_seconds=86400&theme=blue-green"></a>
+</div>
