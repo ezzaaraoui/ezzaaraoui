@@ -1,5 +1,19 @@
 ![logo](https://github.com/ezzaaraoui/ezzaaraoui/blob/main/Design%20sans%20titre%20(5).png)
-
+<p align="center"> <picture >
+  <source 
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+</p>
 <h1 align="center"><i><b>Hi <a href="https://hemant.codes"></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Ayoub ezzaaraoui</b></i></h1>
 
 <h3 align="center">Building digital dreams</h3>
@@ -62,6 +76,8 @@
   <a align="left" href="https://github.com/ezzaaraoui/Tableau_Affiche_Minimum" title="Tableau_Affiche_Minimum"><img align="left"  height="150" width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=ezzaaraoui&repo=Tableau_Affiche_Minimum&theme=blue-green&border_color=blue&border_radius=10"></a>
   <a align="right" href="https://github.com/ezzaaraoui/Tableau_Affiche_Maximum" title="Tableau_Affiche_Maximum"><img align="right"  height="150" width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=ezzaaraoui&repo=Tableau_Affiche_Maximum&theme=blue-green&border_color=blue&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
-<br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><h4 align="center">
+  <a href="https://github.com/ezzaaraoui?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+<hr><br/><br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezzaaraoui&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
