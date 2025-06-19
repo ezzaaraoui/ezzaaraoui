@@ -72,22 +72,4 @@
 </p>
 <hr>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/ezzaaraoui/Operateur_telecom" title="Operateur_telecom"><img align="left" height="150" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzaaraoui&repo=Operateur_telecom&theme=blue-green&border_color=blue&border_radius=10"></a><a align="right" href="https://github.com/ezzaaraoui/sousTableau" title="sousTableau"><img align="right" height="150" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzaaraoui&repo=sousTableau&theme=blue-green&border_color=blue&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/ezzaaraoui/somme_diviseurs" title="somme_diviseurs"><img align="left" height="150" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzaaraoui&repo=somme_diviseurs&theme=blue-green&border_color=blue&border_radius=10"></a>
-  <a align="right" href="https://github.com/ezzaaraoui/mot_de_pass" title="mot_de_pass"><img align="right" height="150" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzaaraoui&repo=mot_de_pass&theme=blue-green&border_color=blue&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/ezzaaraoui/Tableau_Affiche_Minimum" title="Tableau_Affiche_Minimum"><img align="left"  height="150" width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=ezzaaraoui&repo=Tableau_Affiche_Minimum&theme=blue-green&border_color=blue&border_radius=10"></a>
-  <a align="right" href="https://github.com/ezzaaraoui/Tableau_Affiche_Maximum" title="Tableau_Affiche_Maximum"><img align="right"  height="150" width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=ezzaaraoui&repo=Tableau_Affiche_Maximum&theme=blue-green&border_color=blue&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/><h4 align="center">
-  <a href="https://github.com/ezzaaraoui?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-<hr><br/><br/>
+
